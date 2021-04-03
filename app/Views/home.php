@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-    <h2>Daftar User</h2>
+    <h2>Daftar User Pendaftar</h2>
          
     <table class="table table-striped">
         <thead>
